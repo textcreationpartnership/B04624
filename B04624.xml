@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the cellers under the New-Exchange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04624</idno>
+            <idno type="STC">Wing O302</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[250]</idno>
+            <idno type="EEBO-CITATION">99885063</idno>
+            <idno type="PROQUEST">ocm99885063</idno>
+            <idno type="VID">182918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182918)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[251])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the cellers under the New-Exchange.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Ratcliffe and N. Thompson,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>anno Dom. MDCLXXV. [1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I need no genial muse to call upon ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bars (Drinking establishments) --  England --  London --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182918:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>ON THE CELLERS UNDER THE NEW-EXCHANGE.</head>
+            <lg>
+               <l>I Need no Genial Muſe to call upon;</l>
+               <l>A Celler was the Muſes <hi>Helicon:</hi>
+               </l>
+               <l>Verſe under ground firſt learnt to tread on Hoof,</l>
+               <l>Swelling <hi>Parnaſſus</hi> was the nat'ral Roof;</l>
+               <l>The Siſters here firſt put on Soreing Wing,</l>
+               <l>And in a Cave were firſt inſpir'd to Sing;</l>
+               <l>Thoſe Earthen Walls their Secrets did incloſe,</l>
+               <l>To lofty Rhime, ſubliming humble Proſe.</l>
+            </lg>
+            <lg>
+               <l>My thirſty Muſe can't chuſe but make a hault,</l>
+               <l>To Bath our Genius at th' inſpiring Vault,</l>
+               <l>Where every Seat's a ſeveral Muſes Throne,</l>
+               <l>And every Hogſhead a freſh <hi>Helicon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>New-Exchange,</hi> the Beauty of our Nation,</l>
+               <l>A ſtructure worthy of ſo rich Foundation;</l>
+               <l>The Worlds great Ware-houſe, and may yet Engage</l>
+               <l>With her Fair Siſter, Envy of our Age.</l>
+               <l>Thy Wealth above may ſerve to make a ſhow;</l>
+               <l>But Nature plants her Richeſt Pearls below,</l>
+               <l>And all thy ſpacious Outſide is no more,</l>
+               <l>Than a Rich Cabinet to incloſe the Store.</l>
+               <l>The Riches which intomb'd within our Cell,</l>
+               <l>Outvie the Ruby, and the Carbuncle:</l>
+               <l>Here for ſmall Coſt you Treaſure may have ſtore,</l>
+               <l>This oft makes Poor Men Rich, that Rich Men Poor;</l>
+               <l>No Bankrupts here, whilſt Faith does but remain,</l>
+               <l>If Broke, next Sixpence ſets him up again.</l>
+            </lg>
+            <lg>
+               <l>Nature ordain'd us firſt in Caves to dwell,</l>
+               <l>And <hi>Adam</hi> dig'd, to make his <hi>Eve</hi> a Cell:</l>
+               <l>They knew no other Court: When <hi>Cain</hi> was curſt,</l>
+               <l>He Built a City, and that was the firſt;</l>
+               <l>The reſt content with Natures Houſe, the Cell,</l>
+               <l>In Holes, and Concaves of the Earth did dwell:</l>
+               <l>Through <hi>Europe, Aſia,</hi> and Black <hi>Africk</hi> rig'd,</l>
+               <l>No other Palaces but what they dig'd.</l>
+               <l>O're Spacious Vaults they their Foundations found;</l>
+               <l>
+                  <hi>Faiths,</hi> in old <hi>Pauls,</hi> was planted under ground:</l>
+               <l>A Thouſand <hi>Daniſh</hi> Courts within this Iſle,</l>
+               <l>Do yet remain a Monumental Pile:</l>
+               <l>Caves were the Thrones of Kings; he was the Slave,</l>
+               <l>Who for a Houſe exchang'd his Princely Cave:</l>
+               <l>The <hi>Cynnicks</hi> Tub was but a Tanners Pit,</l>
+               <l>And an old Cask wall'd in its Gueſt, and it:</l>
+               <l>High Tow'rs on Heav'n were deem'd but an Intruſion,</l>
+               <l>And lofty <hi>Babel</hi> only brought Confuſion.</l>
+            </lg>
+            <lg>
+               <l>But this vaſt Work excels, and dare outvie,</l>
+               <l>The proudeſt Structure that Invades the Skie.</l>
+               <l>Had the great Queen beheld our <hi>Helicon,</hi>
+               </l>
+               <l>She'd bluſh'd to ſee her tot'ring <hi>Babylon;</hi>
+               </l>
+               <l>More than its Riſe, ſhe'd glory in the Fall,</l>
+               <l>And downwards hence Erect her Towers all.</l>
+               <l>The higheſt <hi>Pyramids</hi> their Cells poſſeſt,</l>
+               <l>And Cellers are but Palaces tranſverſt;</l>
+               <l>The lower the Foundation ſinks, the higher</l>
+               <l>The Structures vaſt Circumference does aſpire:</l>
+               <l>Here Stories do deſcend from Floor to Floor,</l>
+               <l>And ſinking deeper, adds a Story more.</l>
+               <l>Thus the vaſt Work increaſeth every day,</l>
+               <l>And does enlarge by what they take away:</l>
+               <l>As <hi>Hollanders</hi> incroaching on the Main,</l>
+               <l>The more they ſhuffle out, the more they gain.</l>
+            </lg>
+            <lg>
+               <l>As if kind Art with Nature did compound,</l>
+               <l>To hide her Richeſt Treaſure under ground:</l>
+               <l>In the firſt Room Sev'n Siſters Fair abide,</l>
+               <l>As <hi>Bacchus</hi> with <hi>Minerva</hi> were ally'd:</l>
+               <l>The Liberal Arts their Beauties there diſplay,</l>
+               <l>Making the Gueſts as Liberal as they.</l>
+               <l>
+                  <hi>Grammar</hi> denys to ſpeak incongruous there,</l>
+               <l>And Lady <hi>Muſick</hi> holds them by the Ear;</l>
+               <l>Dame <hi>Geometry</hi> learns how to clear the Coſt,</l>
+               <l>And <hi>Numbers</hi> not to reckon before Hoſt;</l>
+               <l>Madam <hi>Aſtronomy,</hi> the Starry Dame,</l>
+               <l>By Stars reflect, makes day and night the ſame;</l>
+               <l>The Argument cloſe-fiſted <hi>Logick</hi> opes,</l>
+               <l>And <hi>Rhetorick</hi> ſpeaks nothing but in Tropes.</l>
+               <l>Who thus inthron'd amongſt the Siſters ſits,</l>
+               <l>Are Vertuoſo's, and may paſs for Wits;</l>
+               <l>And he that drinking learns the beſt, may be</l>
+               <l>A Royal Member oth' Society.</l>
+            </lg>
+            <lg>
+               <l>Next over head the Elements appear,</l>
+               <l>Each by Apartment in his proper Sphere;</l>
+               <l>As if wiſe Nature, that fore-ſees the dark</l>
+               <l>Deſigns of Fate (like <hi>Noah</hi> in the Ark,)</l>
+               <l>After ſo lively, and Myſterious faſhion,</l>
+               <l>Preſerv'd 'em here againſt a new Creation.</l>
+            </lg>
+            <lg>
+               <l>Within the next Diviſion you may ſee,</l>
+               <l>The Scenes of <hi>Landcips, Proſpects, Husbandry;</hi>
+               </l>
+               <l>One with a Spade, another with a Hook,</l>
+               <l>You'd think the Picture ſweat, with pains they took.</l>
+               <l>The Fruit ſo lively does adorn the Trees,</l>
+               <l>It cheats the Birds, and we are caught by theſe;</l>
+               <l>One by the Fowler Shot, ſo plump did fall,</l>
+               <l>I run to take it up, and catch'd the Wall;</l>
+               <l>Another ſcatter'd from the Flock, by th' Tail,</l>
+               <l>I thought had dropt into a Milkmaids Pail;</l>
+               <l>I'de ſnatch'd it thence, but only to be Juſt,</l>
+               <l>I learnt it there, <hi>Weaving my Truth with Truſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I paſs the reſt, the Stare-caſe and the Seats,</l>
+               <l>And now my Muſe into the Vault retreats.</l>
+               <l>The Vault, that Artificial Arbour, where</l>
+               <l>The Vine, and Grape's in ſeaſon all the Year;</l>
+               <l>So full and plump they look, I've ſeen 'em ſcrape</l>
+               <l>The Sapleſs Sieling, hoping for the Grape.</l>
+               <l>And many who Commend, and Flock to ſee</l>
+               <l>The rich Adornment of the Pillory,</l>
+               <l>From <hi>Iſlington</hi> and <hi>Hamſted</hi> quit their Gate,</l>
+               <l>To ſee the Rat, and Baker hang in State.</l>
+            </lg>
+            <lg>
+               <l>On th' other end you may behold the Doom</l>
+               <l>Of all the <hi>Caeſars,</hi> and the ſtate of <hi>Rome;</hi>
+               </l>
+               <l>In Charcoal-work old <hi>Rome</hi> ſo much ſurpaſſes,</l>
+               <l>Like a new <hi>Phoenix</hi> ſprung from her own Aſhes.</l>
+               <l>The mighty <hi>Capitol</hi> in Charcoal Ore,</l>
+               <l>More glorious in the ſhadow, than before;</l>
+               <l>And all the Structures, and the <hi>Hero's</hi> round,</l>
+               <l>In Sable Duſt of their own Ruins Crown'd:</l>
+               <l>Such had proud <hi>Nero</hi> but beheld, his Fame</l>
+               <l>Wou'd not commend his Building, but the Flame,</l>
+               <l>That by Myſterious Pencil, we at home</l>
+               <l>Shou'd from her Aſhes raiſe a braver <hi>Rome;</hi>
+               </l>
+               <l>And Furies for this Cauſe his Tomb wou'd range;</l>
+               <l>Becauſe his <hi>Rome</hi> falls ſhort of our <hi>Exchange.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But to refreſh, my thirſty Muſe is gone,</l>
+               <l>To the Rich Fountains of her <hi>Helicon,</hi>
+               </l>
+               <l>Who in a Celler lives, or dies in Cave,</l>
+               <l>Hath found at once a Lodging, and a Grave.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Ratcliffe</hi> and <hi>N. Thompſon,</hi> Anno Dom. MDCLXXV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
